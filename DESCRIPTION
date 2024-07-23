@@ -20,7 +20,7 @@ License: GPL-2
 URL: https://gforge.se/packages/
 BugReports: https://github.com/gforge/forestplot/issues
 Biarch: yes
-Depends: R (>= 4.1.0), grid, checkmate, abind
+Depends: R (>= 4.0.1), grid, checkmate, abind
 Suggests: dplyr, Gmisc, Greg, knitr, purrr, rlang, rmarkdown, rmeta,
         rms, testthat, tibble, tidyr, tidyselect, tidyverse
 Encoding: UTF-8
